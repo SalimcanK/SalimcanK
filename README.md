@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Salimcan</h1>
 <h3 align="center">Frontend/Backend Developer</h3>
 
-- 🔭 I’m currently working on **DefineX practicum final case**
+- 🔭 I’m currently working on a **fullstack project**
 
-- 🌱 I’m currently learning **Java Spring**
+- 🌱 I’m currently learning **Java Spring** and **React**
 
 - 📫 How to reach me **salimcankaya97@gmail.com**
 
