@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Salimcan</h1>
 <h3 align="center">Fullstack Developer</h3>
 
-- 🔭 I’m currently working on a **fullstack project**
+- 🔭 I’m currently working on a **microservices spring project**
 
-- 🌱 I’m currently learning **Java Spring** and **React**
+- 🌱 I’m currently learning **Spring**
 
 - 📫 How to reach me **salimcankaya97@gmail.com**
 
